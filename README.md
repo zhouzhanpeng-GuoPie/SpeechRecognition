@@ -34,9 +34,3 @@
 
 ***STM32_Code：*** 采用STM32H750进行语音识别的算法代码。
 <div>
-  
- 
-### 👨🏻‍💻Maintainers
-####     Hi there 👋 I'm [ZhouZhanPeng](https://github.com/zzpspierman123)
-> A Sophomore Student in [HuaiHua University](http://www.hhtc.edu.cn/?affichelist-2)
-> 🌱 [@zzpspierman123](https://github.com/zzpspierman123)
